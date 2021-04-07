@@ -14,7 +14,7 @@ var n3 = prezzo_over65.toFixed(2);
 if(eta >= 18 && eta < 65){
   document.getElementById('prezzo').innerHTML = "Il prezzo del tuo biglietto è di " + n1 + "€"
 }
-if(eta <= 17){
+if(eta < 18){
   document.getElementById('prezzo').innerHTML = "Il prezzo del tuo biglietto è di " + n2 + "€ con il 20% di sconto"
 }
 if(eta >= 65){
