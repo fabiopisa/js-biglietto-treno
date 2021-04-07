@@ -1,0 +1,7 @@
+live coding di oggi:
+confronto parole= https://playcode.io/754508/
+oggetto Date= https://playcode.io/754544/
+confronto date= https://playcode.io/754388/
+oggetto Math= https://playcode.io/754560/
+pari dispari= https://playcode.io/754566/
+minuti mancanti= https://playcode.io/754593/
